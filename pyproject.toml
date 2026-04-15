@@ -6,7 +6,7 @@ build-backend = "hatchling.build"
 name = "flexmeasures-client"
 description = "Async client to connect to the FlexMeasures API"
 readme = "README.rst"
-requires-python = ">=3.10, <3.13"
+requires-python = ">=3.14, <3.15"
 license = "Apache-2.0"
 license-files = ["LICENSE.txt"]
 authors = [
